@@ -64,7 +64,7 @@ Cette bibliothèque contient une collection de programmes pour effectuer diverse
 Pour utiliser cette bibliothèque, clonez le dépôt et suivez les instructions spécifiques à votre environnement de développement.
 
 *Utilisation*
-Importez les fonctions nécessaires dans votre code et appelez-les avec les paramètres appropriés. Des exemples d'utilisation sont fournis dans le dossier `exemples`.
+Importez les fonctions nécessaires dans votre code et appelez-les avec les paramètres appropriés. 
 
 *Contribution*
 Les contributions sont les bienvenues. Veuillez soumettre vos pull requests ou ouvrir des issues pour discuter des améliorations potentielles.
